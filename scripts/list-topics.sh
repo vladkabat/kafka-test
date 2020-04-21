@@ -1,3 +1,3 @@
 #!/bin/bash
 
-./kafka-topics.sh --list --zookeeper localhost:2181
+/usr/hdp/current/kafka-broker/bin/kafka-topics.sh --list --zookeeper localhost:2181
